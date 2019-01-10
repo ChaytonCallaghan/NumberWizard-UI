@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# NumberWizard-UI-THIS-ONE-
-# NUMBERWIZUI-MARK-THIS-ON-MD-
-# NUMBERWIZUI-MARK-THIS-ON-MD-
-=======
-DO NOT MARK THIS ONE IT'S NOT THE RIGHT ONE!!!!!!
->>>>>>> 720e6829ff987d5ad0f89b86b37308b4a3618d20
-# NumberWizard-UI
+md read me
+
+chaytonc1
+chaytoncallaghan compsci 30
